@@ -1,6 +1,6 @@
 #### Ramil Baldoz
-📭 Email: hello@five88media.com
-👔 LinkedIn: [in/ramilbaldoz](https://www.linkedin.com/in/ramilbaldoz)
+📭 Email: hello@five88media.com  
+👔 LinkedIn: [in/ramilbaldoz](https://www.linkedin.com/in/ramilbaldoz)  
 
 #### 🔭 Technologies I Use
 
@@ -11,8 +11,8 @@
 • VS Code Terminal - All in one 
 
 ##### Productivity
-|• Spotify - For music and podcasts
-|• YouTube - Tutorials
+• Spotify - For music and podcasts  
+• YouTube - Tutorials  
 
 ##### Desktop
 • MAC - My personal and work machine
