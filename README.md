@@ -4,6 +4,7 @@
 
 ##### Projects
 • [Easy Button Builder](https://www.easybuttonbuilder.com/) - Create your own custom button and use it on your own projects
+• [Public Api Collection](https://public-api-red.vercel.app/) - Public API collections inspired by https://publicapis.dev/ - **In Progress**
 
 #### 🔭 Technologies I Use
 
@@ -21,6 +22,7 @@
 • MAC - My personal and work machine
 
 ##### Dev
-• Vue JS
-• Tailwind CSS
-• Bootstrap
+• Frameweorks: Vue JS, React
+• Stack: Javascript, HTML, CSS
+• Utilities: Tailwind CSS, Bootstrap
+
