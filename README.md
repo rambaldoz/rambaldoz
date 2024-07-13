@@ -1,41 +1,36 @@
 #### Ramil Baldoz
-📭 Email: <span style="color:blue">hello@five88media.com</span>  
-👔 LinkedIn: <a href="https://www.linkedin.com/in/ramilbaldoz" style="color:blue">in/ramilbaldoz</a>  
+📭 Email: hello@five88media.com  
+👔 LinkedIn: [in/ramilbaldoz](https://www.linkedin.com/in/ramilbaldoz)  
 
 ---
 
-##### Projects
-• <a href="https://www.easybuttonbuilder.com/" style="color:green">Easy Button Builder</a> - Create your own custom button and use it on your own projects.  
-• <a href="https://public-api-red.vercel.app/" style="color:green">Public Api Collection</a> - Public API collections inspired by <a href="https://publicapis.dev/" style="color:blue">https://publicapis.dev/</a> - <span style="color:red">**In Progress**</span>.
+#### Personal Projects
+• [Easy Button Builder](https://www.easybuttonbuilder.com/) - Create your own custom button and use it on your own projects.  
+• [Public Api Collection](https://public-api-red.vercel.app/) - Public API collections inspired by https://publicapis.dev/ - **In Progress**.
 
 ---
 
 #### 🔭 Technologies I Use
 
----
 
-##### Code Editor
-• <span style="color:purple">Visual Studio Code</span> - For everything work related stuff
+#### Code Editor
+• Visual Studio Code - For everything work related stuff
 
----
 
-##### Terminal
-• <span style="color:purple">VS Code Terminal</span> - All in one 
+#### Terminal
+• VS Code Terminal - All in one 
 
----
 
-##### Productivity
-• <span style="color:orange">Spotify</span> - For music and podcasts  
-• <span style="color:orange">YouTube</span> - Tutorials  
+#### Productivity
+• Spotify - For music and podcasts  
+• YouTube - Tutorials  
 
----
 
-##### Desktop
-• <span style="color:gray">MAC</span> - My personal and work machine
+#### Desktop
+• MAC - My personal and work machine
 
----
 
-##### Dev
-• Frameworks: <span style="color:blue">Vue JS</span>, <span style="color:blue">React</span>  
-• Stack: <span style="color:blue">Javascript</span>, <span style="color:blue">HTML</span>, <span style="color:blue">CSS</span>  
-• Utilities: <span style="color:blue">Tailwind CSS</span>, <span style="color:blue">Bootstrap</span>
+#### Dev
+• Frameworks - Vue JS, React  
+• Stack - Javascript, HTML, CSS  
+• Utilities - Tailwind CSS, Bootstrap
