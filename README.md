@@ -6,9 +6,10 @@
 
 #### Personal Projects
 • [Easy Button Builder](https://app-btn.vercel.app/) - Create your own custom button and use it on your own projects.  
-• [Finance Tracker](https://fin-tracker-five.vercel.app/login) - Simple Finance Tracker - Vue  
 • [Travel Item List](https://travel-list-plum.vercel.app/) - Travel Item Lists - React
-• [Bill Splitter](https://eat-and-split-pied.vercel.app/) - Bill Splitter using - React
+• [Bill Splitter](https://eat-and-split-pied.vercel.app/) - Bill Splitter - React
+• [Currency Converter](https://curr-converter-react.vercel.app/) - Currency Converter - React + Vite
+• [Finance Tracker](https://fin-tracker-five.vercel.app/login) - Simple Finance Tracker - Vue  
 • [Mortgage Calculator](https://rad-zabaione-d2a44c.netlify.app/) - Simple Mortgage Calculator - Vue
 • [Temperature Converter](https://quiet-empanada-99fc19.netlify.app/) - Temperature Calculator - Vue
 • [Verthem](https://) - Landing page drag-and-drop creator  - **In Progress**.
