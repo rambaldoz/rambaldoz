@@ -5,7 +5,8 @@
 ---
 
 #### Personal Projects
-- [Easy Button Builder](https://app-btn.vercel.app/) - Create your own custom button and use it on your own projects  
+- [Easy Button Builder](https://app-btn.vercel.app/) - Create your own custom button and use it on your own projects
+- [[Healthy Pinas]](https://healthypinas.vercel.app/) - Healthcare Facility Finder in Philippines  
 - [Travel Item List](https://travel-list-plum.vercel.app/) - Travel Item Lists - React  
 - [Bill Splitter](https://eat-and-split-pied.vercel.app/) - Bill Splitter - React  
 - [Currency Converter](https://curr-converter-react.vercel.app/) - Currency Converter - React + Vite  
