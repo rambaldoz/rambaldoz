@@ -6,7 +6,8 @@
 
 #### Personal Projects
 - [Easy Button Builder](https://app-btn.vercel.app/) - Create your own custom button and use it on your own projects
-- [Healthy Pinas](https://healthypinas.vercel.app/) - Healthcare Facility Finder in Philippines  
+- [KusinaWise](https://home-meal-planner.vercel.app/) - Kusina Wise - Smart Filipino Meal Planner - Next Js
+- [Healthy Pinas](https://healthypinas.vercel.app/) - Healthcare Facility Finder in Philippines - Next Js
 - [Travel Item List](https://travel-list-plum.vercel.app/) - Travel Item Lists - React  
 - [Bill Splitter](https://eat-and-split-pied.vercel.app/) - Bill Splitter - React  
 - [Currency Converter](https://curr-converter-react.vercel.app/) - Currency Converter - React + Vite  
@@ -36,7 +37,7 @@
 - MAC - My personal and work machine  
 
 #### Dev Stack   
-- Vue JS, React  
+- Vue JS, Next JS, React  
 - JavaScript, HTML, CSS  
 - TailwindCSS, Bootstrap
 - Supabase, Sanity  
