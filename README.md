@@ -1,5 +1,5 @@
 #### Ramil Baldoz
-📭 Email: hello@five88media.com  
+📭 Email: baldozramil@gmail.com  
 👔 LinkedIn: [in/ramilbaldoz](https://www.linkedin.com/in/ramilbaldoz)  
 
 ---
