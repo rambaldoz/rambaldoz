@@ -6,7 +6,7 @@
 
 #### Personal Projects
 - [Easy Button Builder](https://app-btn.vercel.app/) - Create your own custom button and use it on your own projects
-- [Wishkoto](https://wishkoto.vercel.app/) - Wisk Ko To - Online Wishlisting - Next Js
+- [Wishkoto](https://wishkoto.com/) - Wisk Ko To - Online Wishlisting - Next Js
 - [KusinaWise](https://home-meal-planner.vercel.app/) - Kusina Wise - Smart Filipino Meal Planner - Next Js
 - [Healthy Pinas](https://healthypinas.vercel.app/) - Healthcare Facility Finder in Philippines - Next Js
 - [Travel Item List](https://travel-list-plum.vercel.app/) - Travel Item Lists - React  
