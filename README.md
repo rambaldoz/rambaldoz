@@ -5,6 +5,7 @@
 ---
 
 #### Personal Projects
+- [Better Taal Batangas](https://bettertaalbatangas.vercel.app/) - Community-run portal for the Municipality of Taal, Batangas
 - [Easy Button Builder](https://app-btn.vercel.app/) - Create your own custom button and use it on your own projects
 - [Wishkoto](https://wishkoto.com/) - Wisk Ko To - Online Wishlisting - Next Js
 - [All Purpose Wheel](https://allpurposewheel.com/) - All Purpose Wheel - Spin the wheel - Next Js
